@@ -14,9 +14,29 @@ Na wyjściu należy w osobnych liniach wypisać dwie liczby całkowite: wartoś�
 ### Przykład
 **Wejście:**
 
-4 3 7 -2 3 7 -2 11 4 0
+4
+
+3
+
+7
+
+-2
+
+3
+
+7
+
+-2
+
+11
+
+4
+
+0
 
 
 **Wyjście:**
 
--2 7
+-2
+
+7
